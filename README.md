@@ -1,3 +1,6 @@
+## EXPEREIMENT NO.: 07
+## DATE : 13.04.2024
+
 # Norm of a matrix
 ## Aim
 To write a program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places.
